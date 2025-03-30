@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @subhayanguhathakurta14
-- 👀 I’m interested in Technical Architect/Software Architect Role
-- 🌱 I’m currently working with AWS, Fullstack Engineering, Data Engineering
-- 💞️ I’m looking to collaborate on software development projects
-- 📫 How to reach me: email: suby.thakurta@gmail.com 
-- ⚡ Fun fact: I dabble in standup comedy
+Hey there! 👋 I'm Subhayan
+Welcome to my little corner of GitHub! I'm a passionate technologist with a deep interest in Software Architecture and Technical Leadership. I love building systems that are not only scalable and performant but also clean and elegant under the hood.
 
-<!---
-subhayanguhathakurta14/subhayanguhathakurta14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 What I’m Up To
+🚀 Currently working with AWS, diving deep into Fullstack Engineering and Data Engineering
+
+🧱 Exploring the intricacies of architectural design patterns, cloud-native applications, and data pipelines
+
+🤝 Looking to collaborate on meaningful software projects—open source, startups, or just for fun!
+
+🛠️ Tech Stack
+Languages: JavaScript/TypeScript, Python, Java
+
+Frontend: React, Next.js, HTML/CSS
+
+Backend: Node.js, Express, Spring Boot
+
+Cloud & DevOps: AWS (Lambda, EC2, S3, DynamoDB, etc.), Docker, CI/CD
+
+Data: SQL, NoSQL, Apache Spark, Data Lakes
+
+📫 Let’s Connect
+You can reach out to me anytime at suby.thakurta@gmail.com – always happy to talk shop, tech, or even tell a joke or two.
+
+⚡ Fun Fact
+When I’m not debugging code, I’m probably on stage dabbling in stand-up comedy. Yes, I try to balance architecture diagrams with punchlines!
+
